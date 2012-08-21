@@ -1,0 +1,7 @@
+tmp
+*.tmproj
+.DS_Store
+.project
+.settings
+api.jsca
+*.log
